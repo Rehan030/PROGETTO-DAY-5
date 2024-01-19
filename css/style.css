@@ -1,0 +1,152 @@
+html {font-size: 80%;}
+header {
+    text-align: center;
+}
+body {
+    text-align: center;
+    color: #393d41;
+    font-size: 1.2rem;
+    font-family: 'Open Sans';
+    line-height: 1.65;
+}
+header {
+    background-color: black;
+    height: 80px;
+}
+header img {margin-top: 20px;}
+#sfondo {
+    background-image: url(../images/banner.jpg);
+    background-size: 600px;
+    background-position: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+main h1 {
+    color: rgb(0, 150, 170);
+    font-weight: bolder;
+    margin-bottom: 15px;
+    font-size: 35px;
+    line-height: 1;
+}
+main button {
+    color: white;
+    background-color: #f04c2f;
+    font-weight: bold;
+    margin-top: 30px;
+    border-radius: 5px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 35px;
+    padding-left: 35px;
+}
+#blank h3 {
+    color: rgb(0, 150, 170);
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+#blank img {
+    padding: 10px;
+    border-radius: 200px;
+}
+#red {
+    background-color: #e22d0e;
+    color: white;
+    margin-top: 40px;
+    padding-bottom: 30px;
+    padding-top: 40px;
+}
+#red h2 {
+    font-weight: bold;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+#red i {
+    font-style: oblique;
+}
+#red p {
+    padding-top: 15px;
+    padding-bottom: 0;
+}
+#foto1 {
+    border: 1px solid #dee1e3;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-left: 37px;
+    margin-right: 37px;
+    margin-top: 50px;
+}
+#foto1 img {
+    padding-bottom: 10px;
+}
+#foto1 h2 {
+    color:  rgb(0, 150, 170);
+    font-weight: bold;
+}
+#foto1 p {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+}
+#foto2 {
+    border: 1px solid #dee1e3;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-left: 37px;
+    margin-right: 37px;
+    margin-top: 50px;
+}
+#foto2 img {
+    padding-bottom: 10px;
+}
+#foto2 h2 {
+    color:  rgb(0, 150, 170);
+    font-weight: bold;
+}
+#foto2 p {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+}
+#foto3 {
+    border: 1px solid #dee1e3;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-left: 37px;
+    margin-right: 37px;
+    margin-top: 50px;
+}
+#foto3 img {
+    padding-bottom: 10px;
+}
+#foto3 h2 {
+    color:  rgb(0, 150, 170);
+    font-weight: bold;
+}
+#foto3 p {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+}
+
+footer {
+    margin-top: 50px;
+    background-color: #25a2c3;
+    color: white;
+    padding-bottom: 80px;
+}
+footer h1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 35px;
+    font-weight: bolder;
+}
+footer address {
+    font-weight: lighter;
+    padding-bottom: 20px;
+}
+footer p {
+    padding-top: 20px;
+}
